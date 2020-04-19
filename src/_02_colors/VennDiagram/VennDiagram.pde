@@ -1,1 +1,14 @@
 size(600,600);
+textSize(32);
+fill(255,0,0,100);
+ellipse (275,250,100,100);
+fill(0,255,0,100);
+ellipse (325,250,100,100);
+fill(0, 0, 255, 100);
+ellipse (300,300,100,100);
+fill(0);
+text("Hi",285,325);
+textSize(16);
+text("Hello",235,250);
+textSize(32);
+text("Bye",325,250);
